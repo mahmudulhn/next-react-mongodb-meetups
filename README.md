@@ -166,4 +166,4 @@ The project you've uploaded is a Next.js application that uses React and MongoDB
 
 - Helps with resolving modules and setting path aliases.
 
-This documentation provides an overview of the project structure and setup instructions. For further details, refer to the specific files and the README provided in the project.
+This documentation provides an overview of the project structure and setup instructions. For further details, refer to the specific files.
